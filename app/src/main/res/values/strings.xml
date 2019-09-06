@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">bigcosm</string>
+    <string name="txt_network_not_available">Không có kết nối mạng. Vui lòng kiểm tra internet của bạn</string>
+    <string name="txt_out_of_memory">Hết bộ nhớ, vui lòng tắt các ứng dụng nền khác và thử lại!</string>
+</resources>

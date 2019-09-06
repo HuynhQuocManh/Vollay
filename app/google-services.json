@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "580906033071",
+    "firebase_url": "https://allder-1554294109542.firebaseio.com",
+    "project_id": "allder-1554294109542",
+    "storage_bucket": "allder-1554294109542.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580906033071:android:158234842a8d631c",
+        "android_client_info": {
+          "package_name": "com.ebizword.bigcosm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580906033071-8eiubfjq7v8l309c0n9ed6hsp2909ce2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ebizword.bigcosm",
+            "certificate_hash": "cff2730814517e72ce06ca3a81564ee0ae68626f"
+          }
+        },
+        {
+          "client_id": "580906033071-82kcj5e03objo75ok7h8n51rfhidrmed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8ZzHR_WF2R4Jp9baTt-MurQndaHz9Jdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580906033071-82kcj5e03objo75ok7h8n51rfhidrmed.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "580906033071-qeai0h6ucv5u5hlgd5a3m3q299d2kn4k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ebizword.bigcosm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
